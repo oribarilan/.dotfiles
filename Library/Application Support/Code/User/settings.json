@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.condaPath": "/Users/orbarila/micromamba/condabin/conda",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "terminal.integrated.inheritEnv": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "editor.inlineSuggest.enabled": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.lineNumbers": "relative",
+    "zenMode.hideLineNumbers": false,
+    "notebook.lineNumbers": "on"
+}
